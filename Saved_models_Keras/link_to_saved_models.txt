@@ -1,0 +1,5 @@
+Due to the size limit imposed by Github, we have uploaded the files on Google Drive.
+
+Download the different teacher models in order to load them at this URL :
+
+https://drive.google.com/drive/folders/1X51jwhCpIz4fTYnFZATN8E6uHTRkf0jj?usp=sharing
