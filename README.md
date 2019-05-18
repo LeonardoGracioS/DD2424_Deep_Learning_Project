@@ -1,7 +1,9 @@
 # DD2424 Deep Learning Project
 
 ## DO DEEP CONVOLUTIONAL NETWORKS REALLY NEED TO BE DEEP AND CONVOLUTIONAL
-Repository for the DD2424 Deep Learning in Data Science course at KTH. Authors : Samuel LEONARDO GRACIO, Victor STIMPFLING and Martin VERSTRAETE.
+Repository for the DD2424 Deep Learning in Data Science course at KTH. 
+
+Authors : Samuel LEONARDO GRACIO, Victor STIMPFLING and Martin VERSTRAETE.
 
 ## How to run
 
@@ -15,7 +17,7 @@ In order to get the different saved models, should go on the link given in "link
 
 ## Description of the project 
 
-Despite all the evidences presented by G.Urbanet al.  (1) (2017), we decided to repeat empiricalexperiences in order to check if their conclusions are relevant for a more complex data set.  Todo so we choose to firstly reproduce the main experiments performed by G.Urbanet al.  (1) andsecondly to adjust our network in order to match the minimal requirement in order to be performingon CIFAR-100. 
+Despite all the evidences presented by G.Urbanet al.  (1) (2017), we decided to repeat empirical experiences in order to check if their conclusions are relevant for a more complex data set.  To do so we choose to firstly reproduce the main experiments performed by G.Urbanet al. and secondly to adjust our network in order to match the minimal requirement in order to be performing on CIFAR-100. 
 
 ## Link to the original research paper
 
