@@ -1,4 +1,4 @@
-# DD2424 Deep Learning Project
+# Deep Learning Project
 
 ## DO DEEP CONVOLUTIONAL NETWORKS REALLY NEED TO BE DEEP AND CONVOLUTIONAL
 Repository for the DD2424 Deep Learning in Data Science course at KTH. 
